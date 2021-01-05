@@ -1,3 +1,4 @@
 # python-basics
-Moje projekty python tutaj będą.
-W przyszłości zamierzam stworzyć aplikację, która będzie szyfrować i deszyfrowac wiadomości (morse code)
+My python projects are gonna be there
+Currently, I'm working on an app that will encrypt and decrypt morse code, I also want to make a discord bot :-)
+
